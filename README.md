@@ -1,4 +1,9 @@
-### Hi there 👋
+### Nice to meet you! 👋
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=chadell&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 I’m currently working on Network Automation
+- 📫 How to reach me: twitter @chadell0
 
 <!--
 **chadell/chadell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
