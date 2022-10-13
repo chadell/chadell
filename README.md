@@ -14,6 +14,7 @@
 
 #### Community participation
 
+- ITNOG6 and GRNOG13 "Adopting a Network Automation Mindset": [video](https://diavlos.grnet.gr/room/3152?eventid=12805&vod=11454_session)
 - FOSDEM 2022, Open Source Network Automation in 2022: [video](http://mirroronet.pl/pub/mirrors/video.fosdem.org/2022/M.misc/misc_network_automation.mp4)
 - RIPE82 2021, How to Handle your Circuits Proactively: [video](https://ripe82.ripe.net/archives/video/516/)
 - Pyday 2020, Basic Network Automation in Python: [video](https://www.youtube.com/watch?v=Se3FmYvn6sM)
