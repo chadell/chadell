@@ -13,7 +13,7 @@
 
 #### Community participation
 
-- DevOps Barcelona 2022, The role of the Network Engineer in the DevOps era: [slides](./slides/22_11_04_devops_barcelona.pdf)
+- DevOps Barcelona 2022, The role of the Network Engineer in the DevOps era: [video](https://www.youtube.com/watch?v=KTwFQ5qJciQ) [slides](./slides/22_11_04_devops_barcelona.pdf)
 - ITNOG6 and GRNOG13 Adopting a Network Automation Mindset: [video](https://diavlos.grnet.gr/room/3152?eventid=12805&vod=11454_session)
 - FOSSASIA 2022, Open Source Network Automation in 2022
 - FOSDEM 2022, Open Source Network Automation in 2022: [video](http://mirroronet.pl/pub/mirrors/video.fosdem.org/2022/M.misc/misc_network_automation.mp4)
