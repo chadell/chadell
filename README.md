@@ -8,11 +8,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chadell" alt="chadell" /></a> </p>
 
-- 🔭 I’m currently working on Network Automation and learning about software development around networking use-cases
+- 🔭 I’m currently focused on software development around networking use cases: network automation, eBPF, VPP, and Machine Learning.
 - 📫 How to reach me: twitter [@chadell0](https://twitter.com/chadell0)
+
+#### Books
+
+- [Network Programmability and Automation, 2nd Edition](https://learning.oreilly.com/library/view/network-programmability-and/9781098110826/) by O'Reilly
 
 #### Community participation
 
+- NetBCN 2023, eBPF 101 [slides](https://github.com/chadell/ebpf-playground/blob/main/ebpf101.pdf) [code](https://github.com/chadell/ebpf-playground)
+- PyDay BCN 2023, Nornir [code](https://github.com/chadell/nornir-playground)
+- ESNOG30, Skills for the Next-Generation Network Engineer [video in Spanish](https://www.youtube.com/live/JBllW9xCwuo?si=5HkMVXozBuVkjVAH&t=3718)
 - DevOps Barcelona 2022, The role of the Network Engineer in the DevOps era: [video](https://www.youtube.com/watch?v=KTwFQ5qJciQ) [slides](./slides/22_11_04_devops_barcelona.pdf)
 - ITNOG6 and GRNOG13 Adopting a Network Automation Mindset: [video](https://diavlos.grnet.gr/room/3152?eventid=12805&vod=11454_session)
 - FOSSASIA 2022, Open Source Network Automation in 2022
