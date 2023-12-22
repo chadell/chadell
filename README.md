@@ -31,3 +31,7 @@
 - DevOps Barcelona 2018, One global network to rule them all: [video](https://www.youtube.com/watch?v=PWKEmmsL--Y)
 - NetNod 2018, Multiple Platforms, One Network: [video](https://www.youtube.com/watch?v=TMKG8dww9Fc)
 - NetBCN community: [videos](https://www.youtube.com/channel/UCIQmXh7HgpjVIlSwbkODS_A) and [web](https://www.netbcn.cat/)
+
+#### Podcasts
+
+- PacketPushers Podcast 22: [Full Stack Journey 069: Network Automation Challenges For Engineers And Organizations](https://packetpushers.net/podcast/full-stack-journey-069-network-automation-challenges-for-engineers-and-organizations)
