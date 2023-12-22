@@ -35,3 +35,8 @@
 #### Podcasts
 
 - PacketPushers Podcast 22: [Full Stack Journey 069: Network Automation Challenges For Engineers And Organizations](https://packetpushers.net/podcast/full-stack-journey-069-network-automation-challenges-for-engineers-and-organizations)
+  
+#### Blog posts
+
+- Network to Code blogposts: https://blog.networktocode.com/authors/christian-adell
+
