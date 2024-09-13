@@ -14,9 +14,12 @@
 #### Books
 
 - [Network Programmability and Automation, 2nd Edition](https://learning.oreilly.com/library/view/network-programmability-and/9781098110826/) by O'Reilly
+- [Modern Network Observability](https://www.amazon.com/Modern-Network-Observability-hands-open-source/dp/1835081061)
+- [Network Automation with Nautobot](https://www.amazon.com/Network-Automation-Nautobot-data-driven-networking/dp/1837637865)
 
 #### Community participation
 
+- ITNOG8, Desing-Driven Network Automation [slides](https://www.itnog.it/itnog8/files/2--christian-pc-Design-Driven%20SoT%20-%20ITNOG8.pdf)
 - NetBCN 2023, eBPF 101 [slides](https://github.com/chadell/ebpf-playground/blob/main/ebpf101.pdf) [code](https://github.com/chadell/ebpf-playground)
 - PyDay BCN 2023, Nornir [code](https://github.com/chadell/nornir-playground)
 - ESNOG30, Skills for the Next-Generation Network Engineer [video in Spanish](https://www.youtube.com/live/JBllW9xCwuo?si=5HkMVXozBuVkjVAH&t=3718)
