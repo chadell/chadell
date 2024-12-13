@@ -8,8 +8,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chadell" alt="chadell" /></a> </p>
 
-- 🔭 I’m currently focused on software development around networking use cases: network automation, eBPF, VPP, and Machine Learning.
-- 📫 How to reach me: twitter [@chadell0](https://twitter.com/chadell0)
+- 🔭 I’m currently focused on software development around network automation
+- 📫 How to reach me: [twitter](https://twitter.com/chadell0) or [linkedin](https://www.linkedin.com/in/christianadell/)
+
+
 
 #### Books
 
@@ -19,7 +21,8 @@
 
 #### Community participation
 
-- ITNOG8, Desing-Driven Network Automation [slides](https://www.itnog.it/itnog8/files/2--christian-pc-Design-Driven%20SoT%20-%20ITNOG8.pdf)
+- ESNOG32 2024, Design-Driven Source of Truth, the Complete Lifecycle [slides](https://esnog.net/gore32/archivos/esnog32-christian_adell-desig_driven_automation.pdf)
+- ITNOG8 2024, Design-Driven Network Automation [slides](https://www.itnog.it/itnog8/files/2--christian-pc-Design-Driven%20SoT%20-%20ITNOG8.pdf)
 - NetBCN 2023, eBPF 101 [slides](https://github.com/chadell/ebpf-playground/blob/main/ebpf101.pdf) [code](https://github.com/chadell/ebpf-playground)
 - PyDay BCN 2023, Nornir [code](https://github.com/chadell/nornir-playground)
 - ESNOG30, Skills for the Next-Generation Network Engineer [video in Spanish](https://www.youtube.com/live/JBllW9xCwuo?si=5HkMVXozBuVkjVAH&t=3718)
@@ -37,6 +40,9 @@
 
 #### Podcasts
 
+- The Route to Networking 153: [Christian Adell and Josh VanDeraa - Episode 153](https://www.hamilton-barnes.com/resources/podcast/christian-adell-and-josh-vanderaa---episode-153/)
+- Total Network Operations 9: [TNO009: From Network Monitoring to Observability: Make the Leap for Better NetOps](https://packetpushers.net/podcasts/total-network-operations/tno009-from-network-monitoring-to-observability-make-the-leap-for-better-netops/)
+- Network Automation Nerds 77: [NAN077: Network Observability: Tools, Automation, and Insights](https://packetpushers.net/podcasts/network-automation-nerds/nan077-network-observability-tools-automation-and-insights/)
 - PacketPushers Podcast 22: [Full Stack Journey 069: Network Automation Challenges For Engineers And Organizations](https://packetpushers.net/podcast/full-stack-journey-069-network-automation-challenges-for-engineers-and-organizations)
   
 #### Blog posts
