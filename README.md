@@ -16,8 +16,8 @@
 #### Books
 
 - [Network Programmability and Automation, 2nd Edition](https://learning.oreilly.com/library/view/network-programmability-and/9781098110826/) by O'Reilly
-- [Modern Network Observability](https://www.amazon.com/Modern-Network-Observability-hands-open-source/dp/1835081061)
-- [Network Automation with Nautobot](https://www.amazon.com/Network-Automation-Nautobot-data-driven-networking/dp/1837637865)
+- [Modern Network Observability](https://www.amazon.com/Modern-Network-Observability-hands-open-source/dp/1835081061) by Packt
+- [Network Automation with Nautobot](https://www.amazon.com/Network-Automation-Nautobot-data-driven-networking/dp/1837637865) by Packt
 
 #### Community participation
 
