@@ -21,13 +21,13 @@
 
 #### Community participation
 
-- ESNOG32 2024, Design-Driven Source of Truth, the Complete Lifecycle [slides](https://esnog.net/gore32/archivos/esnog32-christian_adell-desig_driven_automation.pdf) [video](https://www.youtube.com/watch?v=FJa_JJWORE8)
+- ESNOG32 2024, Design-Driven Source of Truth, the Complete Lifecycle [slides](https://esnog.net/gore32/archivos/esnog32-christian_adell-desig_driven_automation.pdf) [video in sapnish](https://www.youtube.com/watch?v=FJa_JJWORE8)
 - ITNOG8 2024, Design-Driven Network Automation [slides](https://www.itnog.it/itnog8/files/2--christian-pc-Design-Driven%20SoT%20-%20ITNOG8.pdf)
 - NetBCN 2023, eBPF 101 [slides](https://github.com/chadell/ebpf-playground/blob/main/ebpf101.pdf) [code](https://github.com/chadell/ebpf-playground)
 - PyDay BCN 2023, Nornir [code](https://github.com/chadell/nornir-playground)
-- ESNOG30, Skills for the Next-Generation Network Engineer [video in Spanish](https://www.youtube.com/live/JBllW9xCwuo?si=5HkMVXozBuVkjVAH&t=3718)
+- ESNOG30 2023, Skills for the Next-Generation Network Engineer [video in Spanish](https://www.youtube.com/live/JBllW9xCwuo?si=5HkMVXozBuVkjVAH&t=3718)
 - DevOps Barcelona 2022, The role of the Network Engineer in the DevOps era: [video](https://www.youtube.com/watch?v=KTwFQ5qJciQ) [slides](./slides/22_11_04_devops_barcelona.pdf)
-- ITNOG6 and GRNOG13 Adopting a Network Automation Mindset: [video](https://diavlos.grnet.gr/room/3152?eventid=12805&vod=11454_session)
+- ITNOG6 and GRNOG13 2022 Adopting a Network Automation Mindset: [video](https://diavlos.grnet.gr/room/3152?eventid=12805&vod=11454_session)
 - FOSSASIA 2022, Open Source Network Automation in 2022
 - FOSDEM 2022, Open Source Network Automation in 2022: [video](http://mirroronet.pl/pub/mirrors/video.fosdem.org/2022/M.misc/misc_network_automation.mp4)
 - RIPE82 2021, How to Handle your Circuits Proactively: [video](https://ripe82.ripe.net/archives/video/516/)
