@@ -21,7 +21,7 @@
 
 #### Community participation
 
-- ESNOG32 2024, Design-Driven Source of Truth, the Complete Lifecycle [slides](https://esnog.net/gore32/archivos/esnog32-christian_adell-desig_driven_automation.pdf)
+- ESNOG32 2024, Design-Driven Source of Truth, the Complete Lifecycle [slides](https://esnog.net/gore32/archivos/esnog32-christian_adell-desig_driven_automation.pdf) [video](https://www.youtube.com/watch?v=FJa_JJWORE8)
 - ITNOG8 2024, Design-Driven Network Automation [slides](https://www.itnog.it/itnog8/files/2--christian-pc-Design-Driven%20SoT%20-%20ITNOG8.pdf)
 - NetBCN 2023, eBPF 101 [slides](https://github.com/chadell/ebpf-playground/blob/main/ebpf101.pdf) [code](https://github.com/chadell/ebpf-playground)
 - PyDay BCN 2023, Nornir [code](https://github.com/chadell/nornir-playground)
