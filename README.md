@@ -4,7 +4,8 @@
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=chadell&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chadell&show_icons=true&locale=en&layout=compact" alt="chadell" /></p>
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=chadell&theme=github)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chadell" alt="chadell" /></a> </p>
 
