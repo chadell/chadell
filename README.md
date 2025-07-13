@@ -4,8 +4,6 @@
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=chadell&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github)
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chadell" alt="chadell" /></a> </p>
 
@@ -19,7 +17,7 @@
 - [Network Programmability and Automation, 2nd Edition](https://learning.oreilly.com/library/view/network-programmability-and/9781098110826/) by O'Reilly
 - [Network Automation with Nautobot](https://www.amazon.com/Network-Automation-Nautobot-data-driven-networking/dp/1837637865) by Packt
 - [Modern Network Observability](https://www.amazon.com/Modern-Network-Observability-hands-open-source/dp/1835081061) by Packt
-- [WIP] Network Automation Cookbokk, 2nd Edition by Packt
+- [WIP] Network Automation Cookbook, 2nd Edition by Packt
 
 #### Community and Conferences participation
 
