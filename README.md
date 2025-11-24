@@ -18,6 +18,8 @@ My name is Christian Adell, and I have developed my career around software devel
 - [Network Automation with Nautobot](https://www.amazon.com/Network-Automation-Nautobot-data-driven-networking/dp/1837637865) by Packt
 - [Modern Network Observability](https://www.amazon.com/Modern-Network-Observability-hands-open-source/dp/1835081061) by Packt
 - [Network Automation Cookbook, 2nd Edition](https://www.packtpub.com/en-us/product/network-automation-cookbook-9781835887998) by Packt
+- [Designing Network Automation at Scale](https://designingnetworkautomation.com/)
+
 
 #### Community and Conferences participation
 
