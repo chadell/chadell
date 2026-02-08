@@ -8,9 +8,6 @@ My name is **Christian Adell**, and I work at the intersection of
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20Adell-blue?logo=linkedin)](https://www.linkedin.com/in/christianadell/)
 
----
-
-### 👀 Profile views
 ![Profile views](https://komarev.com/ghpvc/?username=chadell&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
@@ -18,12 +15,11 @@ My name is **Christian Adell**, and I work at the intersection of
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chadell&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)
 
----
-
-### 🏆 GitHub Trophies
 [![Trophies](https://github-profile-trophy.vercel.app/?username=chadell)](https://github.com/ryo-ma/github-profile-trophy)
 
-#### Books
+---
+
+### Books
 
 - [Network Programmability and Automation, 2nd Edition](https://learning.oreilly.com/library/view/network-programmability-and/9781098110826/) by O'Reilly
 - [Network Automation with Nautobot](https://www.amazon.com/Network-Automation-Nautobot-data-driven-networking/dp/1837637865) by Packt
@@ -55,7 +51,9 @@ My name is **Christian Adell**, and I work at the intersection of
 - NetNod 2018, Multiple Platforms, One Network: [video](https://www.youtube.com/watch?v=TMKG8dww9Fc)
 - NetBCN community: [videos](https://www.youtube.com/channel/UCIQmXh7HgpjVIlSwbkODS_A) and [web](https://www.netbcn.cat/)
 
-#### Podcasts
+---
+
+### Podcasts
 
 - Cisco Devnet [Modern Network Observability - Part 1](https://www.youtube.com/watch?v=GFETzK1Ji68)
 - Network Automation Nerds 89: [NAN089: A Career Journey of Exponential Learning](https://packetpushers.net/podcasts/network-automation-nerds/nan089-a-career-journey-of-exponential-learning/)
@@ -63,8 +61,11 @@ My name is **Christian Adell**, and I work at the intersection of
 - Total Network Operations 9: [TNO009: From Network Monitoring to Observability: Make the Leap for Better NetOps](https://packetpushers.net/podcasts/total-network-operations/tno009-from-network-monitoring-to-observability-make-the-leap-for-better-netops/)
 - Network Automation Nerds 77: [NAN077: Network Observability: Tools, Automation, and Insights](https://packetpushers.net/podcasts/network-automation-nerds/nan077-network-observability-tools-automation-and-insights/)
 - PacketPushers Podcast 22: [Full Stack Journey 069: Network Automation Challenges For Engineers And Organizations](https://packetpushers.net/podcast/full-stack-journey-069-network-automation-challenges-for-engineers-and-organizations)
-  
-#### Blog posts
+
+---
+
+
+### Blog posts
 
 - Network to Code blogposts: https://blog.networktocode.com/authors/christian-adell
 
