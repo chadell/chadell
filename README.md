@@ -30,6 +30,7 @@ My name is **Christian Adell**, and I work at the intersection of
 
 #### Community and Conferences participation
 
+- NetBCN 2026, The NAF Architecture [video](https://www.youtube.com/watch?v=IzwWpawu8Vc)
 - AUTOCON3 2025, The Why, What, and How of Design-Driven Automation,[video](https://www.youtube.com/watch?v=0sQPqpohEuo)
 - SALOTTO 2024, Design-Driven Automation, [video](https://www.youtube.com/watch?v=R3pRalGb9ss)
 - ESNOG32 2024, Design-Driven Source of Truth, the Complete Lifecycle [slides](https://esnog.net/gore32/archivos/esnog32-christian_adell-desig_driven_automation.pdf) [video in Spanish](https://www.youtube.com/watch?v=FJa_JJWORE8)
